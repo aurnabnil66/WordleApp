@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688321464537",
+    "project_id": "wordleapp-5205f",
+    "storage_bucket": "wordleapp-5205f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688321464537:android:ecef48ead55ded3a9dd6c8",
+        "android_client_info": {
+          "package_name": "com.wordleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688321464537-jpruj18euksimlimnu0jrpp8j9g820lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzlxF7jeVRM6BQZFwYtgpVWH6v7nZKKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688321464537-jpruj18euksimlimnu0jrpp8j9g820lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

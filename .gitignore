@@ -66,6 +66,16 @@ yarn-error.log
 # testing
 /coverage
 
+# Ignore lock files
+package-lock.json
+yarn.lock
+
+# Ignore editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
 # Yarn
 .yarn/*
 !.yarn/patches
